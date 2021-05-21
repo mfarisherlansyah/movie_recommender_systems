@@ -1,2 +1,2 @@
-# movie_recommender_systems
+# IBM Data Science: Recommender Systems
 An IBM exemplary project on content-based and collaborative filtering recommender systems.
